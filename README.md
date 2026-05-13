@@ -18,10 +18,19 @@ employees.
 <!-- INSTANCE -->
 <!-- /INSTANCE -->
 
-## 2.Summary 
+## 3.Summary 
 
 <!-- UPSTREAM -->
 We have here summary from upstream
+<!-- /UPSTREAM -->
+
+<!-- INSTANCE -->
+<!-- /INSTANCE -->
+
+## 4.Licence 
+
+<!-- UPSTREAM -->
+We have here licence from upstream
 <!-- /UPSTREAM -->
 
 <!-- INSTANCE -->
